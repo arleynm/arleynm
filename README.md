@@ -22,5 +22,5 @@ My Skills
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arleynm)](https://github.com/arleynm/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arleynm)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arleynm)
 
