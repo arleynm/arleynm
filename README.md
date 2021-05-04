@@ -20,6 +20,8 @@ My Skills
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> 
 
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arleynm&show_icons=true&theme=dracula&locale=en" alt="arleynm" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arleynm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="arleynm" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arleynm)](https://github.com/arleynm/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arleynm)
+
+
