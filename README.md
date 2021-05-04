@@ -7,7 +7,7 @@
 - 🎓 I’m currently studying the 3rd period in Computer Science-UIT
 - 🎯 I'm currently Focused on Back-End, studying (C#, HTML and CSS)  
 
-<img src="https://noclinks.net/assets/img/softwaredev.gif" width="300" height="300" />
+<p align="center"><img src="https://noclinks.net/assets/img/softwaredev.gif" width="300" height="300" /></p>
 
 
 Follow me on my social networks:
@@ -23,4 +23,3 @@ My Skills
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arleynm)](https://github.com/arleynm/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arleynm)
-
