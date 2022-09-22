@@ -4,8 +4,8 @@
 
 - 👨 20 years                              
 - 🏠 Itauna- MG,Brasil 
-- 🎓 I’m currently studying the 3rd period in Computer Science-UIT
-- 🎯 I'm currently Focused on Back-End, studying (C#, HTML and CSS)  
+- 🎓 I’m currently studying the 6rd period in Computer Science-UIT
+- 🎯 I'm currently Focused on Back-End, studying (NodeJS, Typescript, MySql)  
 
 <p align="center"><img src="https://noclinks.net/assets/img/softwaredev.gif" width="300" height="300" /></p>
 
@@ -18,10 +18,21 @@ Follow me on my social networks:
 
 My Skills
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /> <img 
+src="https://img.icons8.com/officel/344/php-logo.png" width="40" height="40" /> <img 
+src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" /> <img
+src="https://img.icons8.com/fluency/344/node-js.png" width="40" height="40" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arleynm&show_icons=true&theme=dracula&locale=en" alt="arleynm" /></p> &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arleynm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="arleynm" /></p>
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arleynm&show_icons=true&theme=dracula&locale=en" alt="arleynm" /></p> &nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arleynm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="arleynm"
+/>
+
+</p>
 
 
 
