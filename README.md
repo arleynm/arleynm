@@ -28,11 +28,14 @@ src="https://img.icons8.com/fluency/344/node-js.png" width="40" height="40" />
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arleynm&show_icons=true&theme=dracula&locale=en" alt="arleynm" /></p> &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arleynm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="arleynm"
-/>
-
+<div align="center">
+<a href="https://github.com/ericcastroc">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arleynm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="arleynm" /> 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arleynm&show_icons=true&theme=dracula&locale=en" alt="arleynm" />
+</div>
 </p>
+</p>
+
 
 
 
