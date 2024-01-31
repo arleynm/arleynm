@@ -2,9 +2,9 @@
 
 # I'm Arley
 
-- 👨 21 years                              
+- 👨 22 years                              
 - 🏠 Itauna- MG,Brasil 
-- 🎓 I’m currently studying the 7rd period in Computer Science-UIT
+- 🎓 I’m graduated in Computer Science-UIT
 - 🎯 I'm currently Focused on Back-End, studying (NodeJS, Typescript, MySql, PHP)  
 
 <p align="center"><img src="https://noclinks.net/assets/img/softwaredev.gif" width="300" height="300" /></p>
